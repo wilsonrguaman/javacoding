@@ -1,3 +1,11 @@
+/*
+In US currency, a quater is worth 25 cents, a nickel is worth 5 cents, and a penny is worth 1 cent.
+Write a java program that prompts the user to enter an integer representing a dollar amount that consists of all
+pennies. You may assume the user input value is greater than zero. The program is to distribute that amount into
+quaters, nickels and pennies, using as few coins as possible. Note: you may not use any currency values other than 
+quarters, nickels, and pennies. 
+*/
+
 import java.util.Scanner;
 public class Colo15
 {
