@@ -1,3 +1,13 @@
+/*
+
+Write the method public static int largestInCommon (int[] A, int[] B)
+This method takes two arrays A and B, each containing positive integers only (no error checking necessary)
+and returns the largest value that is common to both A and B. If there is no value that is contained in both 
+A and B, return the value -1. 
+
+*/
+
+
 public class Colors14
    {
       public static void main(String[] args)
