@@ -1,3 +1,10 @@
+/*
+Write the java method below, which takes a two-demensional array A of positive integers. The method returns the index of the row
+that has the largest sum. Assume no two rows have the same sum. for example, if A is the array below, then row 0's values sum of 21, row 1's values
+sum 19, row 2's values sum to 23, and row 3's values sum to 20. Since row 2 has the highest sum, the method would return the value 2. 
+
+*/
+
 public class Colors1
 {
    public static void main(String[] success)
