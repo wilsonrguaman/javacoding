@@ -1,3 +1,17 @@
+/*
+Write a program that has the user enter three integers a, b and c. The user may enter the same
+value more than once. Print to the console the numbers of times the largest integer among a, b and c 
+was entered. Here are some sample runs:
+-------------------------------------------
+enter a :32
+enter b :48
+enter c :32
+The largest integer 48 was entered once. 
+-------------------------------------------
+
+*/
+
+
 import java.util.Scanner;
 public class Colors12Version
 {
